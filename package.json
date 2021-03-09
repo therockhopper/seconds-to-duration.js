@@ -1,6 +1,6 @@
 {
   "name": "@therockhopper/seconds-to-duration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert seconds to ISO8601 format",
   "main": "index.js",
   "scripts": {
