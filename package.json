@@ -1,12 +1,28 @@
 {
-  "name": "seconds-to-duration",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@therockhopper/seconds-to-duration",
+  "version": "0.0.1",
+  "description": "Convert seconds to ISO8601 format",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["seconds-to-duration", "ISO8601", "8601"],
+  "author": "Frank Schmidt",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/frankschmidt902/seconds-to-duration.js.git"
+  },
+
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frankschmidt902/seconds-to-duration.js/issues"
+  },
+  "homepage": "https://github.com/frankschmidt902/seconds-to-duration.js#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  }
 }

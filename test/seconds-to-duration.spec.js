@@ -3,7 +3,7 @@ import secondsToDuration, {
   SECONDS_PER_MINUTE,
   SECONDS_PER_HOUR,
   SECONDS_PER_DAY
-} from './seconds-to-duration'
+} from '../lib/seconds-to-duration'
 
 describe('secondsToDuration', () => {
   describe('even units', () => {
